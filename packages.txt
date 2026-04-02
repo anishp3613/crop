@@ -1,1 +1,8 @@
 python3.10
+tensorflow
+numpy
+pandas
+pillow
+scikit-learn
+matplotlib
+streamlit
