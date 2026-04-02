@@ -1,0 +1,16 @@
+crop,disease,pesticide,dosage_ml_per_l,precautions
+tomato,bacterial_spot,Copper Oxychloride,3,Avoid spraying during high humidity
+tomato,early_blight,Chlorothalonil,2,Do not spray before rainfall
+tomato,late_blight,Mancozeb,2,Ensure proper field drainage
+tomato,leaf_mold,Chlorothalonil,2,Apply in early morning or evening
+tomato,septoria_leaf_spot,Mancozeb,2,Remove infected leaves before spraying
+tomato,spider_mites,Abamectin,0.5,Avoid spraying during flowering
+tomato,target_spot,Azoxystrobin,1,Rotate fungicides to prevent resistance
+tomato,tomato_mosaic_virus,None,0,Remove infected plants immediately
+tomato,tomato_yellow_leaf_curl_virus,Imidacloprid,0.3,Control whitefly population
+tomato,healthy,None,0,No action required
+pomegranate,alternaria,Mancozeb,2,Avoid overhead irrigation
+pomegranate,anthracnose,Carbendazim,1,Avoid spraying during rain
+pomegranate,bacterial_blight,Streptocycline,0.5,Use only when infection is severe
+pomegranate,cercospora,Carbendazim,1,Maintain proper spacing between plants
+pomegranate,healthy,None,0,No action required
